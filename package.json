@@ -1,12 +1,14 @@
 {
   "name": "zx-ui",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Vue.js project",
   "author": "zxhuan <1123046380@qq.com>",
-  "private": true,
+  "private": false,
   "files": [
-    "dist"
+    "src"
   ],
+  "main": "src/zxhuan.js",
+  "style": "src/zxhuan.css",
   "homepage": "http://www.zxhuan.com",
   "repository": {
     "type": "git",
