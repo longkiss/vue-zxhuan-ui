@@ -1,5 +1,5 @@
 {
-  "name": "vue_demo",
+  "name": "zx-ui",
   "version": "1.0.0",
   "description": "A Vue.js project",
   "author": "zxhuan <1123046380@qq.com>",
@@ -64,5 +64,6 @@
     "> 1%",
     "last 2 versions",
     "not ie <= 8"
-  ]
+  ],
+  "license": "MIT"
 }
